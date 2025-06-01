@@ -34,3 +34,12 @@ Esse projeto foi feito em base de atualizar minhas habilidades no Front-end.
 * Ainda estou em plena construção de carreira, visando e buscando uma oportunidade na area.
 
 * Sempre que poder irei está atualizando esse repositorio, a fim de deixa-lo sempre atualizado.
+
+
+---
+## Atualizações
+
+* (✅)Adicionei a responsividade na Landing Page, assim funcionando no Desktop e Mobile.
+
+* ( ) Adicionar barra de menu para melhor interação no mobile.
+
